@@ -11,4 +11,5 @@
         document.body.classList.toggle("light-mode");
     })
     $("body").niceScroll();
+    $("#about").niceScroll();
 })();
